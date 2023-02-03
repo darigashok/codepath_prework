@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="intro_text">Hello World! I am Dariga! I am excited to learn Kotlin and I love travelling</string>
+</resources>
